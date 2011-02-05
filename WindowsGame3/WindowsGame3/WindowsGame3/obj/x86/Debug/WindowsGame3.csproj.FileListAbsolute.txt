@@ -1,0 +1,7 @@
+C:\Users\Annsofi\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Annsofi\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Annsofi\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Annsofi\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Annsofi\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Annsofi\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\Annsofi\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\effects.xnb
